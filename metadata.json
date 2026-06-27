@@ -1,0 +1,6 @@
+{
+  "name": "DeadlineZero",
+  "description": "An AI-powered last-minute productivity engine designed to rescue students, professionals, and entrepreneurs from impending deadlines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
